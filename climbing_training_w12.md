@@ -92,8 +92,7 @@ SATURDAY: 2020.02.21
 
 -------------------------------------------------------
 
-Monday & Thursday: Meditation and then Full Rest.
-Saturday & Sunday: Unknown
+Off days: Meditation and then Full Rest.
 
 -------------------------------------------------------
 
