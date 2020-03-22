@@ -43,7 +43,7 @@ THURSDAY: 2020.02.19
     - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-    - [Couch to 5k]: week 5, day 1
+    - [Couch to 5k]: week 5, day 2
       - 8m climb,  5m rest
       - 8m climb.
   - [ ] Heavy Finger Rolls 70 kgs
@@ -69,13 +69,14 @@ THURSDAY: 2020.02.19
 SATURDAY: 2020.02.21
   - [x] collogine supplement. 
   - [ ] Meditation  (20 mins metta meditation)
-  - [ ] [Finger Prehab] personal modification (See below).
-  - [ ] steep face climbing 
+  - [x] [Finger Prehab] personal modification (See below).
+  - [x] steep face climbing 
     - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
-  - [ ] vertical crack climbing
+  - [x] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-    - [Couch to 5k]: week 5, day 1
-      - 20m climb.
+    - [Couch to 5k]: week 5, day 2
+      - 8m climb,  5m rest
+      - 8m climb.
   - [ ] Back Supported Dumbbell Press (find weights)
   - [ ] Bench Press 40 kgs.
   - [ ] Sun Salutation Series A
@@ -85,6 +86,7 @@ SATURDAY: 2020.02.21
   - [ ] Squat with empty barbell near wall 
 
   - Notes:
+    - steep face climbing: cleaned up my beta.  took complete rests between sets. chalked.  sent. 
 
 -------------------------------------------------------
 
