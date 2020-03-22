@@ -2,6 +2,7 @@
 
 TUESDAY: 2020.03.17
 
+  - [x] collogine supplement. 
   - [ ] Meditation  (20 mins metta meditation) 
   - [x] [Finger Prehab] personal modification (See below).
   - [x] steep face climbing 
@@ -57,11 +58,16 @@ THURSDAY: 2020.02.19
     - fell 12 seconds early on third set of steep face climbing.  
       - next time: use chalk  
       - watch your form: don't chicken-wing those elbows, PUSH with toes.
+    - about crack climbing: so, the texturing on the crack had been run ragged.  between thursday, friday, 
+    and saturday, I completely referbished the surface by reinforcing places where the edge had
+    begun to peal back with a staple gun.  Some 10 hours of labor and 2,000 staples later, I think the 
+    texturing is in good condition to put some more milage on. Bummed I missed a large part of the set's 
+    training, but excited that the crack machine should be en excelent condition for the near future.  
 
 -------------------------------------------------------
 
 SATURDAY: 2020.02.21
-
+  - [x] collogine supplement. 
   - [ ] Meditation  (20 mins metta meditation)
   - [ ] [Finger Prehab] personal modification (See below).
   - [ ] steep face climbing 
@@ -77,6 +83,8 @@ SATURDAY: 2020.02.21
   - [ ] Mermaid stretch - hip opener
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
   - [ ] Squat with empty barbell near wall 
+
+  - Notes:
 
 -------------------------------------------------------
 
