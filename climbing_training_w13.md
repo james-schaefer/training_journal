@@ -1,20 +1,18 @@
 ## Training for 2020 week 12
 
-TUESDAY: 2020.03.17
+MONDAY: 2020.03.23
 
   - [ ] Meditation  (20 mins metta meditation) 
-  - [x] [Finger Prehab] personal modification (See below).
-  - [x] steep face climbing 
+  - [ ] [Finger Prehab] personal modification (See below).
+  - [ ] steep face climbing 
     - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
-
-  - [x] vertical crack climbing
+  - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-    - [Couch to 5k]: week 5, day 1
-      - 5m climb,  3m rest
-      - 5m climb,  3m rest
-      - 5m climb,  3m rest
-  - [x] Deadlift  65 kgs.
-  - [x] Pull Up.  (work towards 5 sets, 5 reps) 
+    - [Couch to 5k]: week 5, day 2
+      - 8m climb,  5m rest
+      - 8m climb.
+  - [ ] Deadlift  65 kgs.
+  - [ ] Pull Up.  (work towards 5 sets, 5 reps) 
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] Mermaid stretch - hip opener
@@ -22,23 +20,14 @@ TUESDAY: 2020.03.17
   - [ ] Squat with empty barbell near wall 
 
   - Notes:
-    - due to pandemic, effectively self quarantined.  
-    - working from home starting today.
-    - crack climbing felt good today!  most positive thing. 
-    - I may run out of tape...
-    - fell 10 seconds early on fourth set of steep face climbing.  
-      - trying to pull through cruxy section left side (of wall).  Panel 10. 
-    - pull ups: still working towards 5x5 bodyweight.  today I got 5,4,4,3,3.
-    - I'm considering moving my stretching to my rest days.  
-    - clearly didn't get to everything, but I think today counts as a win.
 
 -------------------------------------------------------
 
-THURSDAY: 2020.02.19
+WEDNESDAY: 2020.02.25
 
   - [ ] Meditation  (20 mins metta meditation)
-  - [x] [Finger Prehab] personal modification (See below).
-  - [x] steep face climbing 
+  - [ ] [Finger Prehab] personal modification (See below).
+  - [ ] steep face climbing 
     - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
@@ -54,28 +43,18 @@ THURSDAY: 2020.02.19
   - [ ] Squat with empty barbell near wall 
 
   - Notes:
-    - fell 12 seconds early on third set of steep face climbing.  
-      - next time: use chalk  
-      - watch your form: don't chicken-wing those elbows, PUSH with toes.
-    - about crack climbing: so, the texturing on the crack had been run ragged.  between 
-      thursday, friday, and saturday, I completely refurbished the surface by reinforcing 
-      places where the edge had begun to peal back with a staple gun.  Some 10 hours of 
-      labor and 2,000 staples later, I think the texturing is in good condition to put 
-      some more mileage on. Bummed I missed a large part of the set's training, but excited 
-      that the crack machine should be in excellent condition for the near future.  
 
 -------------------------------------------------------
 
-SATURDAY: 2020.02.21
+SATURDAY: 2020.02.28
   - [ ] Meditation  (20 mins metta meditation)
-  - [x] [Finger Prehab] personal modification (See below).
-  - [x] steep face climbing 
+  - [ ] [Finger Prehab] personal modification (See below).
+  - [ ] steep face climbing 
     - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
-  - [x] vertical crack climbing
+  - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-    - [Couch to 5k]: week 5, day 2
-      - 8m climb,  5m rest
-      - 8m climb.
+    - [Couch to 5k]: week 5, day 3
+      - 20m climb.
   - [ ] Back Supported Dumbbell Press (find weights)
   - [ ] Bench Press 40 kgs.
   - [ ] Sun Salutation Series A
@@ -85,10 +64,6 @@ SATURDAY: 2020.02.21
   - [ ] Squat with empty barbell near wall 
 
   - Notes:
-    - steep face climbing: cleaned up my beta.  took complete rests between sets. chalked.  sent. 
-    - about 10 mins rest between steep face climbing and crack climbing.  taped up.
-    - The crack climbing set took *so* much out of me! Did finish the set, but 
-      just collapsed on the crash pads afterwards.
 
 -------------------------------------------------------
 
