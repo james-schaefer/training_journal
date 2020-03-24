@@ -22,7 +22,9 @@ MONDAY: 2020.03.23
     - crack climbing: waaaaay easier than Saturday.  first set MHR 160.  second set MHR 168.
       coulda kept going at the end of the second set.  I think 20 mins will go this Saturday.
     - pull-ups waited 8 mins between sets (up from 5).  could actually do 5x5 this way.  
-      - got some creeky soreness in my shoulder at the end of this set... 
+      - got some creeky soreness in my shoulder at the end of this set...
+      - form was sloppy with some subtle kipping on last rep. 
+      - next time, consider taking 20 lbs. off and focus on form.
 
 -------------------------------------------------------
 
@@ -92,7 +94,7 @@ SATURDAY: 2020.02.28
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 5, day 3
-      - 20m climb.
+      - 20m climb.  So excited!
   - [ ] Back Supported Dumbbell Press (find weights)
   - [ ] Bench Press 40 kgs.
 
