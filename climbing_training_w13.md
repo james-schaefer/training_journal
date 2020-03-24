@@ -14,15 +14,14 @@ MONDAY: 2020.03.23
   - [ ] Deadlift  65 kgs.
   - [x] Pull Up.  (work towards 5 sets, 5 reps) 
 
-
   - Notes:
     - Steep face climbing: I fell on the first set, maybe five or six seconds early.
-      - next time prepare mentally.  take it seriously.  review beta.  chalk.  
+      - next time prepare mentally.  take it seriously.  review beta.  *chalk-up*.  
       - crux moves are 4, 13, 17, & 18.
     - 15 mins rest, tape up
     - crack climbing: waaaaay easier than Saturday.  first set MHR 160.  second set MHR 168.
       coulda kept going at the end of the second set.  I think 20 mins will go this Saturday.
-    - waited 8 mins between sets.  could actually do 5x5 this way.  
+    - waited 8 mins between sets (up from 5).  could actually do 5x5 this way.  
       - got some creeky soreness in my shoulder at the end of this set... 
 
 -------------------------------------------------------
@@ -36,6 +35,16 @@ TEUSDAY: 2020.02.24
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
   - [ ] Squat with empty barbell near wall 
 
+  
+  - Notes:
+    - Body weight: 165.4 lbs.
+      - so just two weeks ago I weighed 173, and was gaining weight.
+      - over the weekend I was at 163...
+      - 1 lbs. per week is considered a healthy pace of weight loss...
+      - should try to slow the pace of my weight loss.
+      - does got to show the effects of regular eating out, vs my 
+        current rice, beans, and tofu diet. 
+    - .
 -------------------------------------------------------
 
 WEDNESDAY: 2020.02.25
