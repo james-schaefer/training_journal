@@ -30,7 +30,7 @@ MONDAY: 2020.03.23
 
 TEUSDAY: 2020.02.24
 
-  - [ ] Meditation  (20 mins metta meditation) 
+  - [x] Meditation  (20 mins metta meditation) 
   - [ ] Sun Salutation Series A
   - [x] Hamstring Stretching: 180 seconds daily dose
   - [ ] Mermaid stretch - hip opener
