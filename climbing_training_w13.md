@@ -52,7 +52,7 @@ WEDNESDAY: 2020.02.25
   - [ ] Meditation  (20 mins metta meditation)
   - [ ] [Finger Prehab] personal modification (See below).
   - [ ] steep face climbing 
-    - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
+    - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 5, day 2
@@ -88,7 +88,7 @@ SATURDAY: 2020.02.28
   - [ ] Meditation  (20 mins metta meditation)
   - [ ] [Finger Prehab] personal modification (See below).
   - [ ] steep face climbing 
-    - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
+    - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 5, day 3
