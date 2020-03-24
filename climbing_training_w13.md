@@ -32,9 +32,9 @@ TEUSDAY: 2020.02.24
 
   - [ ] Meditation  (20 mins metta meditation) 
   - [ ] Sun Salutation Series A
-  - [ ] Hamstring Stretching: 180 seconds daily dose
+  - [x] Hamstring Stretching: 180 seconds daily dose
   - [ ] Mermaid stretch - hip opener
-  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+  - [x] Door Jam Ankle Flexibility: 180 seconds daily dose
   - [ ] Squat with empty barbell near wall 
 
   
