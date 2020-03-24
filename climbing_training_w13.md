@@ -21,7 +21,7 @@ MONDAY: 2020.03.23
     - 15 mins rest, tape up
     - crack climbing: waaaaay easier than Saturday.  first set MHR 160.  second set MHR 168.
       coulda kept going at the end of the second set.  I think 20 mins will go this Saturday.
-    - waited 8 mins between sets (up from 5).  could actually do 5x5 this way.  
+    - pull-ups waited 8 mins between sets (up from 5).  could actually do 5x5 this way.  
       - got some creeky soreness in my shoulder at the end of this set... 
 
 -------------------------------------------------------
