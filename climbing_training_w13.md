@@ -1,4 +1,4 @@
-## Training for 2020 week 12
+## Training for 2020 week 13
 
 MONDAY: 2020.03.23
 
@@ -6,23 +6,35 @@ MONDAY: 2020.03.23
   - [x] [Finger Prehab] personal modification (See below).
   - [x] steep face climbing 
     - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
-  - [ ] vertical crack climbing
+  - [x] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 5, day 2
       - 8m climb,  5m rest
       - 8m climb.
   - [ ] Deadlift  65 kgs.
-  - [ ] Pull Up.  (work towards 5 sets, 5 reps) 
-  - [ ] Sun Salutation Series A
-  - [ ] Hamstring Stretching: 180 seconds daily dose
-  - [ ] Mermaid stretch - hip opener
-  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] Squat with empty barbell near wall 
+  - [x] Pull Up.  (work towards 5 sets, 5 reps) 
+
 
   - Notes:
     - Steep face climbing: I fell on the first set, maybe five or six seconds early.
       - next time prepare mentally.  take it seriously.  review beta.  chalk.  
       - crux moves are 4, 13, 17, & 18.
+    - 15 mins rest, tape up
+    - crack climbing: waaaaay easier than Saturday.  first set MHR 160.  second set MHR 168.
+      coulda kept going at the end of the second set.  I think 20 mins will go this Saturday.
+    - waited 8 mins between sets.  could actually do 5x5 this way.  
+      - got some creeky soreness in my shoulder at the end of this set... 
+
+-------------------------------------------------------
+
+TEUSDAY: 2020.02.24
+
+  - [ ] Meditation  (20 mins metta meditation) 
+  - [ ] Sun Salutation Series A
+  - [ ] Hamstring Stretching: 180 seconds daily dose
+  - [ ] Mermaid stretch - hip opener
+  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+  - [ ] Squat with empty barbell near wall 
 
 -------------------------------------------------------
 
@@ -39,16 +51,30 @@ WEDNESDAY: 2020.02.25
       - 8m climb.
   - [ ] Heavy Finger Rolls 70 kgs
   - [ ] Single Leg Squat to seated
+
+  - Notes:
+  
+-------------------------------------------------------
+
+THURSDAY: 2020.02.26
+
+  - [ ] Meditation  (20 mins metta meditation) 
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] Mermaid stretch - hip opener
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] Squat with empty barbell near wall 
-
-  - Notes:
-
+  
 -------------------------------------------------------
 
+FRIDAY: 2020.02.26
+
+  - [ ] Meditation  (20 mins metta meditation) 
+  - [ ] Sun Salutation Series A
+  - [ ] Hamstring Stretching: 180 seconds daily dose
+  - [ ] Mermaid stretch - hip opener
+  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+  
+-------------------------------------------------------
 SATURDAY: 2020.02.28
   - [ ] Meditation  (20 mins metta meditation)
   - [ ] [Finger Prehab] personal modification (See below).
@@ -60,18 +86,8 @@ SATURDAY: 2020.02.28
       - 20m climb.
   - [ ] Back Supported Dumbbell Press (find weights)
   - [ ] Bench Press 40 kgs.
-  - [ ] Sun Salutation Series A
-  - [ ] Hamstring Stretching: 180 seconds daily dose
-  - [ ] Mermaid stretch - hip opener
-  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] Squat with empty barbell near wall 
 
   - Notes:
-
--------------------------------------------------------
-
-Monday & Thursday: Meditation and then Full Rest.
-Saturday & Sunday: Unknown
 
 -------------------------------------------------------
 
