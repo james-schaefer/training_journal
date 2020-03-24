@@ -3,9 +3,9 @@
 MONDAY: 2020.03.23
 
   - [ ] Meditation  (20 mins metta meditation) 
-  - [ ] [Finger Prehab] personal modification (See below).
-  - [ ] steep face climbing 
-    - 5x(1 min climb, 5 mins rest 20 degrees overhang, speed 22 feet per min.)
+  - [x] [Finger Prehab] personal modification (See below).
+  - [x] steep face climbing 
+    - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 5, day 2
@@ -20,6 +20,9 @@ MONDAY: 2020.03.23
   - [ ] Squat with empty barbell near wall 
 
   - Notes:
+    - Steep face climbing: I fell on the first set, maybe five or six seconds early.
+      - next time prepare mentally.  take it seriously.  review beta.  chalk.  
+      - crux moves are 4, 13, 17, & 18.
 
 -------------------------------------------------------
 
