@@ -71,6 +71,7 @@ WEDNESDAY: 2020.03.25
         - first time climbing 20 mins crack with no rests! 
         - felt so good at one point I found  a brief no-hands rest.  
         - so excited!
+        - today was the first time ever I taped my feet under my shoes to try and eliminate foot pain... 
       
   
 -------------------------------------------------------
