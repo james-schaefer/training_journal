@@ -55,11 +55,10 @@ WEDNESDAY: 2020.03.25
   - [x] [Finger Prehab] personal modification (See below).
   - [x] steep face climbing 
     - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
-  - [ ] vertical crack climbing
+  - [x] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-    - [Couch to 5k]: week 5, day 2
-      - 8m climb,  5m rest
-      - 8m climb.
+    - [Couch to 5k]: week 5, day 3
+      - 20m climb
   - [ ] Heavy Finger Rolls 70 kgs
   - [ ] Single Leg Squat to seated
 
@@ -67,7 +66,11 @@ WEDNESDAY: 2020.03.25
     - steep face climbing felt great.  took time before the set to brush the holds,
       find my chalk bag and chalk up, mentally review beta.  during the rest before
       the last set was propperly meditating as a mental recovery. 
-    -
+    - 20 mins continuous crack climb.  Nailed it!  
+      originally, I was going to wait till Saturday, but... just felt good so I went for it.
+        - first time climbing 20 mins crack with no rests! 
+        - felt so good at one point I found  a brief no-hands rest.  
+        - so excited!
       
   
 -------------------------------------------------------
