@@ -28,7 +28,7 @@ MONDAY: 2020.03.23
 
 -------------------------------------------------------
 
-TEUSDAY: 2020.02.24
+TEUSDAY: 2020.03.24
 
   - [x] Meditation  (20 mins metta meditation) 
   - [ ] Sun Salutation Series A
@@ -49,11 +49,11 @@ TEUSDAY: 2020.02.24
     - .
 -------------------------------------------------------
 
-WEDNESDAY: 2020.02.25
+WEDNESDAY: 2020.03.25
 
   - [ ] Meditation  (20 mins metta meditation)
-  - [ ] [Finger Prehab] personal modification (See below).
-  - [ ] steep face climbing 
+  - [x] [Finger Prehab] personal modification (See below).
+  - [x] steep face climbing 
     - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
@@ -64,10 +64,15 @@ WEDNESDAY: 2020.02.25
   - [ ] Single Leg Squat to seated
 
   - Notes:
+    - steep face climbing felt great.  took time before the set to brush the holds,
+      find my chalk bag and chalk up, mentally review beta.  during the rest before
+      the last set was propperly meditating as a mental recovery. 
+    -
+      
   
 -------------------------------------------------------
 
-THURSDAY: 2020.02.26
+THURSDAY: 2020.03.26
 
   - [ ] Meditation  (20 mins metta meditation) 
   - [ ] Sun Salutation Series A
@@ -77,7 +82,7 @@ THURSDAY: 2020.02.26
   
 -------------------------------------------------------
 
-FRIDAY: 2020.02.26
+FRIDAY: 2020.03.26
 
   - [ ] Meditation  (20 mins metta meditation) 
   - [ ] Sun Salutation Series A
@@ -86,7 +91,7 @@ FRIDAY: 2020.02.26
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
   
 -------------------------------------------------------
-SATURDAY: 2020.02.28
+SATURDAY: 2020.03.28
   - [ ] Meditation  (20 mins metta meditation)
   - [ ] [Finger Prehab] personal modification (See below).
   - [ ] steep face climbing 
