@@ -51,7 +51,7 @@ TEUSDAY: 2020.03.24
 
 WEDNESDAY: 2020.03.25
 
-  - [ ] Meditation  (20 mins metta meditation)
+  - [x] Meditation  (20 mins metta meditation)
   - [x] [Finger Prehab] personal modification (See below).
   - [x] steep face climbing 
     - 5x(1 min climb, 5 mins rest 21 degrees overhang, speed 22 feet per min.)
@@ -59,8 +59,8 @@ WEDNESDAY: 2020.03.25
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 5, day 3
       - 20m climb
-  - [ ] Heavy Finger Rolls 70 kgs
-  - [ ] Single Leg Squat to seated
+  - [x] Heavy Finger Rolls 70 kgs
+  - [x] Single Leg Squat to seated
 
   - Notes:
     - steep face climbing felt great.  took time before the set to brush the holds,
@@ -72,7 +72,10 @@ WEDNESDAY: 2020.03.25
         - felt so good at one point I found  a brief no-hands rest.  
         - so excited!
         - today was the first time ever I taped my feet under my shoes to try and eliminate foot pain... 
-      
+    - heavy finger rolls: usually I work up to the max weight rep, adding 5kgs a set...
+      today I just did some warmup sets and tried to do all five sets at 70 kgs.  
+      so hard!  could not lift on the fifth set!
+    - single leg squates: tips for next time - stat from seated.  height 24
   
 -------------------------------------------------------
 
