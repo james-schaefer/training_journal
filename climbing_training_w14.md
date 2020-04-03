@@ -47,7 +47,8 @@ Thursday: 2020.04.02
       - I just climbed continuous 18 minutes.
   - [ ] Heavy Finger Rolls progressions to 70 kgs
   - [ ] Single Leg Squat to seated
-  - ![graph of heartrate data](./heartrate_data/2020-04-02_hr.png)
+
+![graph of heartrate data](./heartrate_data/2020-04-02_hr.png)
 
   
 -------------------------------------------------------
