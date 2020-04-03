@@ -24,6 +24,7 @@ Tuesday: 2020.03.31
     - kind of don't feel awful...
     - steep face climbing.  Nailed 22 degrees first attempt.  Try harder.
     - enduro face climbing.  was trying for full 20 mins.  didn't make it.  
+    - I made myself a belt for my chalk bag.  so sporty. 
 
 -------------------------------------------------------
 
@@ -37,13 +38,13 @@ Thursday: 2020.04.02
   - [x] C25K w1 d1 aerobic climbing.
     - 8x(60s on, 90s off) 3 degrees slab, speed 18. 
 
-  - [ ] steep face climbing 
+  - [x] steep face climbing 
     - 5x(1 min climb, 5 mins rest 23 degrees overhang, speed 22 feet per min.)
-  - [ ] vertical crack climbing
+  - [x] vertical crack climbing
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 6, day 2
-      - 10m climb, 3 mins rest
-      - 10m climb
+      - by the book, it calls for 10 mins climb, 3 mins rest, 10 mins climb...
+      - I just climbed continuous 18 minutes.
   - [ ] Heavy Finger Rolls progressions to 70 kgs
   - [ ] Single Leg Squat to seated
 
