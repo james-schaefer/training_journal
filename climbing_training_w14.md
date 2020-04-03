@@ -47,11 +47,18 @@ Thursday: 2020.04.02
       - I climbed continuous 18 minutes.
   - [x] Pull Ups: 5 sets of 3 reps.  full bodyweight.
   - [ ] Heavy Finger Rolls progressions to 70 kgs
-  - [ ] Single Leg Squat to seated
+  - [x] Single Leg Squat to seated (seat height 20 inches (setting 25))
 
 ![graph of heartrate data](./heartrate_data/2020-04-02_hr.png)
 
-  
+
+  - Notes:
+    - first section of graph above shows HR during steep face climbing.  
+    - second section of graph above shows HR during recovery rest. 
+    - first section of graph above shows HR during vertical crack climbing.
+    - this is somewhat respectable.  If I can get my crack climbing workout up to 
+      30 mins duration, this will be approx. equal to a "beginning 5k race fitness".
+    
 -------------------------------------------------------
 
 Friday:   2020.04.03
