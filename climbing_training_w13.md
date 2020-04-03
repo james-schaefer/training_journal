@@ -111,6 +111,9 @@ SATURDAY: 2020.03.28
   - [ ] Bench Press 40 kgs.
 
   - Notes:
+    - I have an intermitant cough.  
+    - Sometimes my lungs hurt.  
+    - when my lungs hurt, I don't train. 
 
 -------------------------------------------------------
 
