@@ -44,7 +44,7 @@ Thursday: 2020.04.02
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 6, day 2
       - by the book, it calls for 10 mins climb, 3 mins rest, 10 mins climb...
-      - I just climbed continuous 18 minutes.
+      - I climbed continuous 18 minutes.
   - [ ] Heavy Finger Rolls progressions to 70 kgs
   - [ ] Single Leg Squat to seated
 
