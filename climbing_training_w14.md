@@ -3,7 +3,7 @@
 -------------------------------------------------------
 
 Monday: 2020.03.30 
-  - [x] The fever.  Full rest. 
+  - [x] fever.  Full rest. 
 
 -------------------------------------------------------
 
@@ -29,7 +29,7 @@ Tuesday: 2020.03.31
 -------------------------------------------------------
 
 Wednesday: 2020.04.01
-  - [x] The fever.  Full rest. 
+  - [x] fever.  Full rest. 
 
 -------------------------------------------------------
 
@@ -45,6 +45,7 @@ Thursday: 2020.04.02
     - [Couch to 5k]: week 6, day 2
       - by the book, it calls for 10 mins climb, 3 mins rest, 10 mins climb...
       - I climbed continuous 18 minutes.
+  - [x] Pull Ups: 5 sets of 3 reps.  full bodyweight.
   - [ ] Heavy Finger Rolls progressions to 70 kgs
   - [ ] Single Leg Squat to seated
 
