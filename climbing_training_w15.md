@@ -34,6 +34,7 @@ Monday:    2020.04.06
         respectable.  Next time try for 25 mins again.  try to hit a HR 
         of 188 or higher before giving up (if you simply must).  Do not increase 
         duration again untill you get 3 consecutive redpoints at 25 mins.
+    - Body weight 162.4.  Weight loss has slowed to a more healthy pace. 
 
 ![heart rate graph](./heartrate_data/2020-04-06.png)
   
