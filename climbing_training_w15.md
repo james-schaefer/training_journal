@@ -28,13 +28,14 @@ Monday:    2020.04.06
     - steep face climb - this set felt properly hard.  Got this angle first
       try, but it was far from a given.  last set especially felt right at 
       the edge. 
-  - vertical crack climbing
-    - Sooo hard.  Tried for 25 mins continous climbing, made it 22:04 seconds.
-      Heart rate maxed out at 187 before I gave up.  For now, that's 
-      respectable.  Next time try for 25 mins again.  try to hit a HR 
-      of 188 or higher before giving up (if you simply must).  Do not increase 
-      duration again untill you get 3 consecutive redpoints at 25 mins.  
-  - ![heart rate graph](./heartrate_data/2020-04-06.png)
+    - vertical crack climbing 
+      - Sooo hard.  Tried for 25 mins continous climbing, made it 22:04 seconds.
+        Heart rate maxed out at 187 before I gave up.  For now, that's 
+        respectable.  Next time try for 25 mins again.  try to hit a HR 
+        of 188 or higher before giving up (if you simply must).  Do not increase 
+        duration again untill you get 3 consecutive redpoints at 25 mins.
+
+![heart rate graph](./heartrate_data/2020-04-06.png)
   
 -------------------------------------------------------
 
