@@ -63,7 +63,12 @@ Friday:   2020.04.03
 Saturday: 2020.04.04
 Sunday:   2020.04.05
 
-  - [ ] Build a garden, maybe. 
+  - [x] Build a garden, maybe. 
+
+  - Notes:
+    - spent the day working in the soon-to-be garden.  
+    - Cleared out bramble piles, uprooted rogue sapplings. 
+    - 40 yards of top soil scheduled for delivery next Friday.
   
 -------------------------------------------------------
 
