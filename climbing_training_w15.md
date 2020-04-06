@@ -20,7 +20,7 @@ Monday:    2020.04.06
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 7, day 1
     - Climb 25 mins.
-  - [ ] Deadlift  65 kgs.
+  - [ ] Back Supported Dumbbell Press 
   - [ ] Pull Ups.  5 sets of 3 reps, focus on good form.
 
   - Notes:
@@ -34,7 +34,7 @@ Tuesday:   2020.04.07
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] Squat with empty barbell near wall 
+  - [ ] Single Leg Squat to seated  (seat height 20 inches (setting 25))
   - [ ] plank 90 seconds.  (+9s each workout, build up to 5 mins)
 
   - Notes:
@@ -50,8 +50,9 @@ Wednesday: 2020.04.08
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 7, day 2
     - Climb 25 mins.
+  - [ ] Pull Ups.  5 sets of 3 reps, focus on good form.
   - [ ] Heavy Finger Rolls progressive sets to 70 kgs.
-  - [ ] Single Leg Squat to seated
+  - [ ] Bench Press 40 kgs.
 
   - Notes:
 
@@ -63,7 +64,7 @@ Thursday:  2020.04.09
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] Squat with empty barbell near wall 
+  - [ ] Single Leg Squat to seated  (seat height 20 inches (setting 25))
   - [ ] plank 99 seconds.  (+9s each workout, build up to 5 mins)
 
   - Notes:
@@ -80,8 +81,9 @@ Friday:    2020.04.10
     - incline set to 0 degrees (vertical), speed 18 feet per minute. 
     - [Couch to 5k]: week 7, day 3
     - Climb 25 mins.
+  - [ ] Pull Ups.  5 sets of 3 reps, focus on good form.
   - [ ] Back Supported Dumbbell Press 
-  - [ ] Bench Press 40 kgs.
+  - [ ] Deadlift  65 kgs.
 
   
 -------------------------------------------------------
@@ -92,7 +94,7 @@ Saturday:  2020.04.11
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] Squat with empty barbell near wall 
+  - [ ] Single Leg Squat to seated  (seat height 20 inches (setting 25))
   - [ ] plank 108 seconds.  (+9s each workout, build up to 5 mins)
 
   - Notes:
