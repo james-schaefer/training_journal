@@ -54,8 +54,8 @@ Tuesday:   2020.04.07
 -------------------------------------------------------
 
 Wednesday: 2020.04.08
-  - [ ] Meditation (Tara Brock - Radical Compassion)
-  - [ ] my [Finger Prehab] warmups (See below).
+  - [x] Meditation (Tara Brock - Radical Compassion)
+  - [x] my [Finger Prehab] warmups (See below).
   - [ ] steep face climbing 
     - 5x(1 min climb, 5 mins rest 25 degrees overhang, speed 22 feet per min.)
   - [ ] vertical crack climbing
