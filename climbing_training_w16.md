@@ -32,8 +32,6 @@ Sunday:     2020.04.12
       - I plan to not miss a day of meditation this week.
       - I would like to start each day with 20 mins meditation. 
 
-    - baltic birtch
-
 -------------------------------------------------------
 
 Monday:    2020.04.13
