@@ -3,33 +3,42 @@
 -------------------------------------------------------
 
 Sunday:     2020.04.12
+  - [ ] Hydration: 2 liters of water a day.
   - [x] Meditation (Tara Brock - Radical Compassion)
   - Strength Training Superset A
-    -[ ] Bench Press
-      -  3x5 reps, 40 kgs.
-    -[ ] Back Supported Dumbbell Shoulder Press
-      -  3x5 reps, 20 lbs
-    -[ ] Pull Up
-      - 3x5 reps, body weight
+    -[x] Bench Press
+      -  warm up sets: 1x5 @ 20, 30, 40 kgs.
+      -  work sets: 3x5 @ 45 kgs.
+      -  powerrack spotting bars at height 23. 
+    -[x] Back Supported Dumbbell Shoulder Press
+      -  warm up sets: 1x5 @ 4.5, 6.8, 9.1 kgs.  
+      -  work sets: 3x5 @ 11.3 kgs.
+    -[x] Pull Up
+      -  warm up sets: 1x5 @ -60; 1x3 @-40 
+      -  work sets: 3x5 @ -20lbs  (approx: 141.5 lbs.)
   - [ ] my [Finger Prehab] warm-ups (See below).
   - Treadwalling Set
-    - [ ] anaerobic face climbing 
+    - [x] anaerobic face climbing 
       - [Couch to 5k] w2, 10 degrees overhang, 22 feet per min.
     - [ ] vertical crack climbing
       - incline set to 0 degrees (vertical), speed 18 feet per minute. 
       - [Couch to 5k]: week 7, day 1
       - Climb 25 mins.
+    
 
   - Notes:
-    - Body weight: 161.5
+    - Body weight: 161.5 lbs.
     - Meditation: 
       - I plan to not miss a day of meditation this week.
       - I would like to start each day with 20 mins meditation. 
 
+    - baltic birtch
+
 -------------------------------------------------------
 
 Monday:    2020.04.13
-  - [ ] Meditation (Tara Brock - Radical Compassion)
+  - [x] Hydration: 2 liters of water a day.
+  - [x] Meditation (Tara Brock - Radical Compassion)
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
@@ -37,10 +46,12 @@ Monday:    2020.04.13
   - [ ] plank 90 seconds.  (+9s each workout, build up to 5 mins)
 
   - Notes:
+    - my on-again, off again fever has returned.
   
 -------------------------------------------------------
 
 Tuesday:   2020.04.14
+  - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (Tara Brock - Radical Compassion)
   - Strength Training Superset B
     - [ ] [Pistol Squats to chair]
@@ -59,6 +70,7 @@ Tuesday:   2020.04.14
 -------------------------------------------------------
 
 Wednesday: 2020.04.15
+  - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (Tara Brock - Radical Compassion)
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
@@ -71,6 +83,7 @@ Wednesday: 2020.04.15
 -------------------------------------------------------
 
 Thursday:  2020.04.16
+  - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (Tara Brock - Radical Compassion)
   - [ ] my [Finger Prehab] warm-ups (See below).
   - Strength Training Superset C 
@@ -94,6 +107,7 @@ Thursday:  2020.04.16
 -------------------------------------------------------
 
 Friday:    2020.04.17
+  - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (Tara Brock - Radical Compassion)
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
@@ -106,6 +120,7 @@ Friday:    2020.04.17
 -------------------------------------------------------
 
 Saturday:  2020.04.18
+  - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (Tara Brock - Radical Compassion)
   - [ ] my [Finger Prehab] warm-ups (See below).
   - Strength Training Superset A
