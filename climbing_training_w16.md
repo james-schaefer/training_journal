@@ -30,7 +30,7 @@ Sunday:     2020.04.12
     - Body weight: 161.5 lbs.
     - Meditation: 
       - I plan to not miss a day of meditation this week.
-      - I would like to start each day with 20 mins meditation. 
+      - I would like to start each day with 20 mins meditation.
 
 -------------------------------------------------------
 
@@ -50,12 +50,13 @@ Monday:    2020.04.13
 
 Tuesday:   2020.04.14
   - [ ] Hydration: 2 liters of water a day.
-  - [ ] Meditation (Tara Brock - Radical Compassion)
+  - [x] Meditation (metta meditation)
   - Strength Training Superset B
+  - [ ] [Deadlifts]
+      -  warm up sets: 1x5 @ 40, 50, 60 kgs.  
+      -  work sets: 3x5 @ 65 kgs.
     - [ ] [Pistol Squats to chair]
       - 3x5  (seat height 20 inches (setting 25))
-    - [ ] [Deadlifts]
-      - 3x5 65 kgs.
   - [ ] my [Finger Prehab] warm-ups (See below).
   - Treadwalling Set
     - [ ] anaerobic face climbing 
