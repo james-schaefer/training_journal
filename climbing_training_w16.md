@@ -52,10 +52,10 @@ Tuesday:   2020.04.14
   - [ ] Hydration: 2 liters of water a day.
   - [x] Meditation (metta meditation)
   - Strength Training Superset B
-  - [ ] [Deadlifts]
+    - [x] [Deadlifts]
       -  warm up sets: 1x5 @ 40, 50, 60 kgs.  
       -  work sets: 3x5 @ 65 kgs.
-    - [ ] [Pistol Squats to chair]
+    - [x] [Pistol Squats to chair]
       - 3x5  (seat height 20 inches (setting 25))
   - [ ] my [Finger Prehab] warm-ups (See below).
   - Treadwalling Set
@@ -65,6 +65,18 @@ Tuesday:   2020.04.14
       - incline set to 0 degrees (vertical), speed 18 feet per minute. 
       - [Couch to 5k]: week 7, day 1
       - Climb 25 mins.
+
+  - Notes: 
+    - Deadlifts: on final two reps of final set, I experienced back discomfort.  
+      - I felt that during these reps my form was wrong... or just something 
+        wasn't right.  
+      - I really feel I need to address this before I increase  the weight, 
+        even though I'm lifting no where near my "max".  Proper form for 
+	Deadlift elludes me.
+    - Pistol Squats: the limiter here is ankle stability for my left ankle. 
+      - I feel very wobbilly on this ankle.  This is also my least flexable 
+        ankle.
+
 
 -------------------------------------------------------
 
