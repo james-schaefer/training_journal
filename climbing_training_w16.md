@@ -45,6 +45,7 @@ Monday:    2020.04.13
 
   - Notes:
     - my on-again, off again fever has returned.
+    - I injured my ribs and can not sleep more than four hours consecutively. 
   
 -------------------------------------------------------
 
@@ -66,78 +67,9 @@ Tuesday:   2020.04.14
       - [Couch to 5k]: week 7, day 1
       - Climb 25 mins.
 
--------------------------------------------------------
-
-Wednesday: 2020.04.15
-  - [ ] Hydration: 2 liters of water a day.
-  - [ ] Meditation (Tara Brock - Radical Compassion)
-  - [ ] Sun Salutation Series A
-  - [ ] Hamstring Stretching: 180 seconds daily dose
-  - [ ] the [Mermaid Stretch] 
-  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] plank 99 seconds.  (+9s each workout, build up to 5 mins)
-
-  - Notes:
-
--------------------------------------------------------
-
-Thursday:  2020.04.16
-  - [ ] Hydration: 2 liters of water a day.
-  - [ ] Meditation (Tara Brock - Radical Compassion)
-  - [ ] my [Finger Prehab] warm-ups (See below).
-  - Strength Training Superset C 
-    - [ ] [Heavy Finger Rolls]
-      - 5x5 progression: 30, 50, 60, 65, 70 kgs.
-    - [ ] [Hangboarding - minimum edge protocol]
-      - 5x(12 seconds hang, 3 mins rest) open handed grip
-      - rest 5 mins
-      - 5x(12 seconds hang, 3 mins rest) half crimp
-      - near maximal effort, to just before failure.
-  - Treadwalling Set
-    - [ ] anaerobic face climbing 
-      - [Couch to 5k] w2, 10 degrees overhang, 22 feet per min.
-    - [ ] vertical crack climbing
-      - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-      - [Couch to 5k]: week 7, day 1
-      - Climb 25 mins.
-
-  - Notes:
-
--------------------------------------------------------
-
-Friday:    2020.04.17
-  - [ ] Hydration: 2 liters of water a day.
-  - [ ] Meditation (Tara Brock - Radical Compassion)
-  - [ ] Sun Salutation Series A
-  - [ ] Hamstring Stretching: 180 seconds daily dose
-  - [ ] the [Mermaid Stretch] 
-  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
-  - [ ] plank 108 seconds.  (+9s each workout, build up to 5 mins)
-
-  - Notes:
-
--------------------------------------------------------
-
-Saturday:  2020.04.18
-  - [ ] Hydration: 2 liters of water a day.
-  - [ ] Meditation (Tara Brock - Radical Compassion)
-  - [ ] my [Finger Prehab] warm-ups (See below).
-  - Strength Training Superset A
-    -[ ] Bench Press
-      -  3x5 reps, 40 kgs.
-    -[ ] Back Supported Dumbbell Shoulder Press
-      -  3x5 reps, 20 lbs
-    -[ ] Pull Up
-      - 3x5 reps, body weight
-  - Treadwalling Set
-    - [ ] anaerobic face climbing 
-      - [Couch to 5k] w3, 10 degrees overhang, 22 feet per min.
-    - [ ] vertical crack climbing
-      - incline set to 0 degrees (vertical), speed 18 feet per minute. 
-      - [Couch to 5k]: week 8
-      - Climb 25 mins.
-
-  - Notes:
+  - Notes: 
+    - extreme pain during deadlifts (ribs).  
+    - halting all treaining until I can train with minimal pain.
 
 -------------------------------------------------------
 
