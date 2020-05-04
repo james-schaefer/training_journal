@@ -45,6 +45,7 @@ Monday:    2020.04.13
 
   - Notes:
     - my on-again, off again fever has returned.
+    - I injured my ribs and can not sleep more than four hours consecutively. 
   
 -------------------------------------------------------
 
@@ -67,15 +68,20 @@ Tuesday:   2020.04.14
       - Climb 25 mins.
 
   - Notes: 
+    - Pistol Squats: the limiter here is ankle stability for my left ankle. 
+      - I feel very wobbilly on this ankle.  This is also my least flexable 
+        ankle.
+      - I dug out a wobble board for working on this.
+
     - Deadlifts: on final two reps of final set, I experienced back discomfort.  
       - I felt that during these reps my form was wrong... or just something 
         wasn't right.  
       - I really feel I need to address this before I increase  the weight, 
         even though I'm lifting no where near my "max".  Proper form for 
 	Deadlift elludes me.
-    - Pistol Squats: the limiter here is ankle stability for my left ankle. 
-      - I feel very wobbilly on this ankle.  This is also my least flexable 
-        ankle.
+      - extreme pain during deadlifts (ribs).  
+      - halting all treaining until I can train with minimal pain.
+
 
 
 -------------------------------------------------------
@@ -150,6 +156,8 @@ Saturday:  2020.04.18
       - Climb 25 mins.
 
   - Notes:
+=======
+>>>>>>> b4eea90af07ca0bacb404ec89f6ad594029805ae
 
 -------------------------------------------------------
 
