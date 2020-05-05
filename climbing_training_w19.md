@@ -58,9 +58,7 @@ Tuesday:    2020.05.05
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
   - [ ] plank 90 seconds.  (+9s each workout, build up to 5 mins)
 
-  - Notes:
-    - my on-again, off again fever has returned.
-    - I injured my ribs and can not sleep more than four hours consecutively. 
+  - Notes: 
   
 -------------------------------------------------------
 
