@@ -14,14 +14,14 @@ Monday:     2020.05.04
     - [x] Door Jam Ankle Flexibility: 180 seconds daily dose
 
   - Strength Training Superset A
-    -[x] Bench Press
+    - [x] Bench Press
       -  warm up sets: 1x5 @ 20, 30, 40 kgs.
       -  work sets: 3x5 @ 45 kgs.
       -  powerrack spotting bars at height 23. 
-    -[x] Back Supported Dumbbell Shoulder Press
+    - [x] Back Supported Dumbbell Shoulder Press
       -  warm up sets: 1x5 @ 4.5, 6.8, 9.1 kgs.  
       -  work sets: 3x5 @ 11.3 kgs.
-    -[x] Pull Up
+    - [x] Pull Up
       - body Weight is: 160.0 lbs.
       - warm up sets: 1x5 @ -60; 
       - work sets: 3x5 @ -40lbs  (approx: 120 lbs.) 
