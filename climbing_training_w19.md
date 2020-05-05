@@ -11,7 +11,7 @@ Monday:     2020.05.04
   - Jogging
     - [x] [Couch to 5k]: week 1, day 1.  Target heart rate: 130-139
     - [x] Hamstring Stretching: 180 seconds daily dose
-    - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+    - [x] Door Jam Ankle Flexibility: 180 seconds daily dose
 
   - Strength Training Superset A
     -[x] Bench Press
@@ -26,11 +26,11 @@ Monday:     2020.05.04
       - warm up sets: 1x5 @ -60; 
       - work sets: 3x5 @ -40lbs  (approx: 120 lbs.) 
 
-  - [ ] my [Finger Prehab] warm-ups (See below).
+  - [x] my [Finger Prehab] warm-ups (See below).
   - Treadwalling Sets
-    - [ ] anaerobic face climbing 
+    - [x] anaerobic face climbing 
       - 20 mins continous climbing, 0 degrees vertical, 22 fpm
-    - [ ] steep face climbing 
+    - [x] steep face climbing 
       - 5x(1 min climb, 5 mins rest. 15 degrees overhang, speed 22 feet per min.)
     
   - Notes:
@@ -38,6 +38,12 @@ Monday:     2020.05.04
     - Bench press: missed a rep on the first set, this was very difficult.
     - Pull Ups.  Originally planed for the work set to be at 20 lbs less than
       body weight, but during warm-ups, the -40 felt very hard. 
+    - anaerobic face climbing: for having just come off an injury, this was
+      almost exactly the right intensity level.  Max HR 166.  I'm pouring sweat
+      and completely boxed.
+      - there was an exciting moment when a foot hold spun loose.  
+    - steep face climbing: felt harder than anaerobic face... but yet again, max HR was higher on 
+      anaerobic face. 
 
 
 -------------------------------------------------------
@@ -45,6 +51,7 @@ Monday:     2020.05.04
 Tuesday:    2020.05.05
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
+  - [ ] my [Finger Prehab] warm-ups (See below).
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
@@ -90,6 +97,7 @@ Wednesday:    2020.05.06
 Thursday:    2020.05.07
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
+  - [ ] my [Finger Prehab] warm-ups (See below).
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
@@ -129,6 +137,7 @@ Friday:    2020.05.08
 Saturday:    2020.05.08
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
+  - [ ] my [Finger Prehab] warm-ups (See below).
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
@@ -142,6 +151,7 @@ Saturday:    2020.05.08
 Sunday:  2020.05.09
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
+  - [ ] my [Finger Prehab] warm-ups (See below).
   - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
