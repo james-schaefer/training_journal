@@ -50,13 +50,17 @@ Monday:     2020.05.04
 
 Tuesday:    2020.05.05
   - [x] Hydration: 2 liters of water a day.
-  - [ ] Meditation (20 mins Samatha)
-  - [ ] Hamstring Stretching: 180 seconds daily dose
-  - [ ] the [Mermaid Stretch] 
+  - [x] Meditation (20 mins Samatha)
+  - [x] my [Finger Prehab] warm-ups (See below).
+  - [x] Hamstring Stretching: 180 seconds daily dose
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+  - [ ] the [Mermaid Stretch] 
   - [ ] plank 90 seconds.  (+9s each workout, build up to 5 mins)
 
   - Notes: 
+    - during the hangs of finger prehab, I felt some distinct pain in my elbow.  This was also present before the break 
+      from training.    Tendonitis, maybe???
+
   
 -------------------------------------------------------
 
