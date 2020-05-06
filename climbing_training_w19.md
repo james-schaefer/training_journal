@@ -53,7 +53,7 @@ Tuesday:    2020.05.05
   - [x] Meditation (20 mins Samatha)
   - [x] my [Finger Prehab] warm-ups (See below).
   - [x] Hamstring Stretching: 180 seconds daily dose
-  - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+  - [x] Door Jam Ankle Flexibility: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] plank 90 seconds.  (+9s each workout, build up to 5 mins)
 
