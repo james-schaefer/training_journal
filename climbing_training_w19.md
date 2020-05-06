@@ -49,10 +49,8 @@ Monday:     2020.05.04
 -------------------------------------------------------
 
 Tuesday:    2020.05.05
-  - [ ] Hydration: 2 liters of water a day.
+  - [x] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
-  - [ ] my [Finger Prehab] warm-ups (See below).
-  - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
@@ -95,8 +93,6 @@ Wednesday:    2020.05.06
 Thursday:    2020.05.07
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
-  - [ ] my [Finger Prehab] warm-ups (See below).
-  - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
@@ -135,8 +131,6 @@ Friday:    2020.05.08
 Saturday:    2020.05.08
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
-  - [ ] my [Finger Prehab] warm-ups (See below).
-  - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
@@ -149,8 +143,6 @@ Saturday:    2020.05.08
 Sunday:  2020.05.09
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
-  - [ ] my [Finger Prehab] warm-ups (See below).
-  - [ ] Sun Salutation Series A
   - [ ] Hamstring Stretching: 180 seconds daily dose
   - [ ] the [Mermaid Stretch] 
   - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
