@@ -66,20 +66,22 @@ Tuesday:    2020.05.05
 
 Wednesday:    2020.05.06
   - [ ] Hydration: 2 liters of water a day.
-  - [ ] Meditation (20 mins Samatha)
+  - [x] Meditation (20 mins Samatha)
 
   - Jogging
-    - [ ] [Couch to 5k]: week 1, day 2.  Target heart rate: 130-139
-    - [ ] Hamstring Stretching: 180 seconds daily dose
-    - [ ] Door Jam Ankle Flexibility: 180 seconds daily dose
+    - [x] [Couch to 5k]: week 1, day 2.  Target heart rate: 130-139
+    - [x] Hamstring Stretching: 180 seconds daily dose
+    - [x] Door Jam Ankle Flexibility: 180 seconds daily dose
 
   - Strength Training Superset B
-    - [ ] [Deadlifts]
+    - [x] [Deadlifts]
       - warm up sets: 1x5 @ 20, 30, 40 kgs.  
       - work sets: 3x5 @ 45 kgs.
       - spend some time with very light reps.  work on technique.  no back pain.
-    - [ ] [Pistol Squats to chair]
+    - [x] [Pistol Squats to chair]
       - 3x5  (seat height 20 inches (setting 25))
+    - [x] Elbow Isometrics 
+      - 3x5  (15.9 kgs )
 
   - [ ] my [Finger Prehab] warm-ups (See below).
   - Treadwalling Set
@@ -89,6 +91,16 @@ Wednesday:    2020.05.06
       - 5x(1 min climb, 5 mins rest. 15 degrees overhang, speed 22 feet per min.)
 
   - Notes: 
+    - jogging was great. 
+    - meditation at the park was a 30 minute set, up from typical 20 mins.  had some discomfort
+      in my knees towards the end of the session.  (sitting seiza with support).  
+    - Deadlifts went well, but at this lighter weight that is expected.  Reviewed technique with
+      [Jeff Nippard - Conventional deadlift] video.  I can review again each week on rests between 
+      sets.
+      - I am thinking I will increase the weight of the work set by 5kgs a week until 
+        I reach 75kgs. (then reevaluate) 
+      - That is just over body weight, and would take 7 weeks to reach.  
+      - in the past, I have done 65kgs, but with back pain and hesitation/dread.
 
 
 
@@ -177,6 +189,6 @@ Sunday:  2020.05.09
 [Heavy Finger Rolls]: http://nicros.com/training/training-articles/eastern-bloc-training-heavy-finger-rolls/
 
 [Hangboarding - minimum edge protocol]: https://trainingforclimbing.com/4-fingerboard-strength-protocols-that-work/
-
+[Jeff Nippard - Conventional deadlift]: https://youtu.be/VL5Ab0T07e4
 
 <!-- ![heart rate graph](./heartrate_data/2020-04-06.png) -->
