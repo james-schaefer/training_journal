@@ -101,12 +101,22 @@ Wednesday:    2020.05.06
         I reach 75kgs. (then reevaluate) 
       - That is just over body weight, and would take 7 weeks to reach.  
       - in the past, I have done 65kgs, but with back pain and hesitation/dread.
+    - Treadwalling: I was unable to do this today, I may get a chance tomorrow.
+
 
 
 
 -------------------------------------------------------
 
 Thursday:    2020.05.07
+
+  - [x] my [Finger Prehab] warm-ups (See below).
+  - Treadwalling Set
+    - [x] anaerobic face climbing 
+      - 20 mins continous climbing, 0 degrees vertical, 22 fpm
+    - [ ] steep crack climbing
+      - 5x(1 min climb, 5 mins rest. 15 degrees overhang, speed 22 feet per min.)
+
   - [ ] Hydration: 2 liters of water a day.
   - [ ] Meditation (20 mins Samatha)
   - [ ] Hamstring Stretching: 180 seconds daily dose
