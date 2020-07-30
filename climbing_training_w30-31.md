@@ -8,7 +8,7 @@
 
 # Tuesday, July 21st through Thurdsay July 23rd, 2020
 
-  - Today I was stung by a scorpion on my right heel.  
+  - Today I was stung by a scorpion on my left heel.  
   - it was quite painful, and I took a couple days off from training.
     - day one was intense pain that made it difficult to concentrate.
     - day two I had intense "pins and needles" or "leg fell asleep" 
