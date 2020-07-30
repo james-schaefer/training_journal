@@ -18,7 +18,7 @@
 
 # Friday, July 24st through Thurdsay July 23, 2020
 
-  - Aerobic Climbing
+  [x] Aerobic Climbing
   - 13 fpm, 0 degrees incline
   - duration 24:30
   - elevation 260 ft
@@ -26,6 +26,16 @@
   - max HR: 137
   - avg HR: 151
   - [Heart Rate Data](https://flow.polar.com/training/analysis/4929370036)
+
+  [x] Leg strength warmup 
+    - Bannister Squats 
+    - stick-clip Squats
+    - Mermaid Stretch 
+  [x] Leg strength routine
+    - Single leg stand 30 sec. x3 each side. (with pack) 
+    - Single Leg "Clocks" x3 reps each side (with pack) 
+    - Kneel to stand 3x5 reps (with pack)
+    - Single leg Romanian dead lift with kettlebell 3x5 reps
 
   - Note:
   - completely unable to maintain HR below aerobic pace. 
@@ -36,7 +46,7 @@
 
 # Saturday, July 25st through Thurdsay July 23, 2020
 
-  - Aerobic Climbing
+  [x] Aerobic Climbing
   - 13 fpm, 0 degrees incline
   - duration: 22:00 total
   - climbing time: 18:49
@@ -52,7 +62,7 @@
 
 # Sunday, July 26st through Thurdsay July 23, 2020
 
-  - Aerobic Climbing
+  [x] Aerobic Climbing
   - 10 fpm, 0 degrees incline
   - duration: 20:00 total
   - climbing time: 19:41
@@ -63,6 +73,17 @@
   - avg HR: 111
   - [Heart Rate Data](https://flow.polar.com/training/analysis/4937173066)
 
+  [x] Leg strength warmup 
+    - Bannister Squats 
+    - stick-clip Squats
+    - Mermaid Stretch 
+  [x] Leg strength routine
+    - Single leg stand 30 sec. x3 each side. (with pack) 
+    - Single Leg "Clocks" x3 reps each side (with pack) 
+    - Kneel to stand 3x5 reps (with pack)
+    - Single leg Romanian dead lift with kettlebell 3x5 reps
+
+
   - notes: Reduced speed to try to get back to continuous workouts.
 
 # Monday, July 27th, 2020 
@@ -71,15 +92,26 @@
 
 # Tuesday, July 28th, 2020 
 
-  - Aerobic Climbing
+  [x] Aerobic Climbing
   - 10 fpm, 0 degrees incline
   - duration: 20:00 total
+
+  [x] Leg strength warmup 
+    - Bannister Squats 
+    - stick-clip Squats
+    - Mermaid Stretch 
+  [x] Leg strength routine
+    - Single leg stand 30 sec. x3 each side. (with pack) 
+    - Single Leg "Clocks" x3 reps each side (with pack) 
+    - Kneel to stand 3x5 reps (with pack)
+    - Single leg Romanian dead lift with kettlebell 3x5 reps
+
 
   - Note: session data not recorded.
 
 # Wednesday, July 29th, 2020 
 
-  - Aerobic Climbing
+  [x] Aerobic Climbing
   - 10 fpm, 0 degrees incline
   - duration: 20:00 total
 
@@ -87,7 +119,7 @@
 
 # Thursday, July 30th, 2020 
 
-  - Aerobic Climbing
+  [x] Aerobic Climbing
   - 10 fpm, 0 degrees incline
   - duration: 23:52 total
   - elevation 222 ft
@@ -95,5 +127,15 @@
   - max HR: 141
   - avg HR: 119
   - [Heart Rate Data](https://flow.polar.com/training/analysis/4952319276)
+
+  [x] Leg strength warmup 
+    - Bannister Squats 
+    - stick-clip Squats
+    - Mermaid Stretch 
+  [x] Leg strength routine
+    - Single leg stand 30 sec. x3 each side. (with pack) 
+    - Single Leg "Clocks" x3 reps each side (with pack) 
+    - Kneel to stand 3x5 reps (with pack)
+    - Single leg Romanian dead lift with kettlebell 3x5 reps
 
   - notes: Still Reduced speed.
