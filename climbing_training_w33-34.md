@@ -40,9 +40,6 @@
       - set #4 bar + 50kgs = 72.5kgs, 5 reps
       - set #5 bar + 50kgs = 72.5kgs, 5 reps
   - Notes: 
-    - I am sick, and am trying to find the right balance for training load.
-    - I got a new set of plate organizers / weight tree to keep wights tidy when not useing them.
-      Compared to what I had been doing which was stacking the wights on the ground it helps a lot.
       
 
 # Wednesday, August 18th, 2020
