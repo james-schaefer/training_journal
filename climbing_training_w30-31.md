@@ -28,19 +28,19 @@
     - [Heart Rate Data](https://flow.polar.com/training/analysis/4929370036)
 
   - [x] Leg strength warmup 
-    - Bannister Squats 
+    - Bannister Squats
     - stick-clip Squats
-    - Mermaid Stretch 
+    - Mermaid Stretch
   - [x] Leg strength routine
-    - Single leg stand 30 sec. x3 each side. (with pack) 
-    - Single Leg "Clocks" x3 reps each side (with pack) 
+    - Single leg stand 30 sec. x3 each side. (with pack)
+    - Single Leg "Clocks" x3 reps each side (with pack)
     - Kneel to stand 3x5 reps (with pack)
     - Single leg Romanian dead lift with kettlebell 3x5 reps
 
     - Note:
-    - completely unable to maintain HR below aerobic pace. 
-    - fitness fell far short of expectations.  Possible residual 
-      affects from scorpion sting.  stress level was quite high as well. 
+    - completely unable to maintain HR below aerobic pace.
+    - fitness fell far short of expectations.  Possible residual
+      affects from scorpion sting.  stress level was quite high as well.
       but possibly just affects from gap in training???
 
 
